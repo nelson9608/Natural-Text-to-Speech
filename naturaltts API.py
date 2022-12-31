@@ -2,6 +2,7 @@ import cfscrape
 import random
 from requests import Session
 import json
+import simplebot
 from terminaltables import AsciiTable
 from tqdm import tqdm
 from art import text2art
